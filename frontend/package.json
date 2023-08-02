@@ -1,0 +1,10 @@
+{
+    "name": "your-frontend-app",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "react-scripts start",
+      // ... other scripts if present
+    },
+    // ... other configurations
+  }
+  
